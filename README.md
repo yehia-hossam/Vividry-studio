@@ -5,6 +5,18 @@ Visitors walk a curved 3D gallery by scrolling or dragging, click a print to gli
 product page, and check out through a slide-in bag. Below the gallery sits a full landing page (featured prints,
 features, story, reviews, FAQ, newsletter, footer).
 
+
+  <p>
+    <a href="https://hollowcreative.vercel.app/" target="_blank"><strong>🌐 Live Demo</strong></a>
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github.com/yehia-hossam/Vividry-studio/blob/main/Screen%20Shot%20.png" alt="Hollowcreative Screenshot" width="100%" />
+</div>
+
 ## Quick start
 
 ```bash
