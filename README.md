@@ -7,7 +7,7 @@ features, story, reviews, FAQ, newsletter, footer).
 
 
   <p>
-    <a href="https://hollowcreative.vercel.app/" target="_blank"><strong>🌐 Live Demo</strong></a>
+    <a href="https://vividry-studio.vercel.app/" target="_blank"><strong>🌐 Live Demo</strong></a>
   </p>
 </div>
 
