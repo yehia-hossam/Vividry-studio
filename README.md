@@ -87,15 +87,6 @@ Text never drops below 11 px and tap targets are at least 24 px.
 
 Works out of the box on Vercel, Netlify, or any Node host (`npm run build && npm start`).
 
----
-
-## بالعربي (ملخص سريع)
-
-1. `npm install` ثم `npm run dev`.
-2. غيّر النصوص من `src/config/site.ts`، والمنتجات والأسعار من `src/config/products.ts`، والألوان من `src/config/theme.ts`.
-3. حط صورك في `public/art/` (مقاس مثالي 800×1080) وعدّل مسارها في `products.ts` — المعرض ثلاثي الأبعاد يتحدّث تلقائيًا.
-4. ربط الدفع من `BagDrawer.tsx`، وربط النشرة البريدية من `Newsletter.tsx`.
-5. للنشر: ارفع المشروع على Vercel أو أي استضافة Node.
 
 ## License
 
